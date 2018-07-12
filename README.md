@@ -2,6 +2,9 @@
 This is my first use of GitHub and this repository is a dummy one for training purposes only!
 O CAPTAIN! MY CAPTAIN!
 
+    
+    This change shows how to update code and link it to an issue
+    
     O Captain! my Captain! our fearful trip is done, 
     The ship has weather’d every rack, the prize we sought is won, 
     The port is near, the bells I hear, the people all exulting, 

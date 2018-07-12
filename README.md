@@ -3,7 +3,7 @@ This is my first use of GitHub and this repository is a dummy one for training p
 O CAPTAIN! MY CAPTAIN!
 
     
-    This change shows how to update code and link it to an issue
+    This change shows how to update code and link it to an issue - second attempt
     
     O Captain! my Captain! our fearful trip is done, 
     The ship has weather’d every rack, the prize we sought is won, 
